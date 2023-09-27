@@ -1,5 +1,6 @@
 flows:
-  a5058f61-17f0-4b48-b42c-6f5b035c37e2: {ver: 1, file: myFlow27092023.snapshot, comments: '',
-    author: anonymous, created: 1695784639574, flowName: myFlow27092023, flowDesc: ''}
+  a5058f61-17f0-4b48-b42c-6f5b035c37e2: {ver: 2, file: myFlow27092023.snapshot, comments: change
+      commit, author: anonymous, created: 1695784678077, flowName: myFlow27092023,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: b21ecac1-3f8b-4513-8931-74a7554211e9

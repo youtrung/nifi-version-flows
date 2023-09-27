@@ -65,8 +65,8 @@
         "name" : "my-PGN",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 299.0,
-          "y" : 104.0
+          "x" : 272.0,
+          "y" : 64.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -95,6 +95,7 @@
           "properties" : {
             "character-set" : "UTF-8",
             "File Size" : "0B",
+            "generate-ff-custom-text" : "sadsadsad",
             "Batch Size" : "1",
             "Unique FlowFiles" : "false",
             "Data Format" : "Text"
