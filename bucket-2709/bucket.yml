@@ -1,4 +1,6 @@
 flows:
+  f8741bd3-1d6d-4fa1-bf2a-16bd705b1fcc: {ver: 1, file: newFlow.snapshot, comments: '',
+    author: anonymous, created: 1695885289108, flowName: newFlow, flowDesc: ''}
   a5058f61-17f0-4b48-b42c-6f5b035c37e2: {ver: 2, file: myFlow27092023.snapshot, comments: change
       commit, author: anonymous, created: 1695784678077, flowName: myFlow27092023,
     flowDesc: ''}
